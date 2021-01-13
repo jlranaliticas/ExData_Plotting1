@@ -58,7 +58,7 @@ plot4 <- function () {
                        type="l",
                        xlab = "datetime"))
         
-        
+      
        dev.off()
         
         print("plot4 Line chart of electrical power usage complete")

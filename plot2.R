@@ -30,4 +30,5 @@ plot2 <- function () {
         dev.off()
         
         print("plot2 Line chart of electrical power usage complete")
+        
 }

@@ -25,4 +25,5 @@ plot1 <- function() {
         
         print("plot1 Histogram of electrical power usage complete")
 
+        
 }

@@ -41,4 +41,5 @@ plot3 <- function () {
         dev.off()
         
         print("plot3 Line chart of electrical power usage complete")
+        
 }
